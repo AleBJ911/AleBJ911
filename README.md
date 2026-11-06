@@ -23,7 +23,7 @@
 
 ---
 
-##  Sobre mí
+## 🌸 Sobre mí
 
 <img align="right" width="180" src="https://github.com/Alejandra300905.png" alt="Avatar de Alejandra">
 
@@ -57,7 +57,6 @@ Me gusta aprender mediante proyectos y documentar mi proceso de aprendizaje.
 
 ---
 
-
 ## 💻 Tecnologías y herramientas
 
 Estas son algunas de las tecnologías con las que he trabajado y otras que estoy explorando durante mi formación.
@@ -65,13 +64,13 @@ Estas son algunas de las tecnologías con las que he trabajado y otras que estoy
 ### Lenguajes de programación
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,C,html" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html" alt="Python, Java, C y HTML">
 </p>
 
 ### Inteligencia Artificial y ciencia de datos
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
@@ -102,8 +101,14 @@ Estas son algunas de las tecnologías con las que he trabajado y otras que estoy
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejandra300905&bg_color=fff7fb&color=777777&line=EF93C4&point=FF69B4&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
+### 🐍 Mis contribuciones
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alejandra300905/Alejandra300905/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandra300905/Alejandra300905/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandra300905/Alejandra300905/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Alejandra300905/Alejandra300905/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -118,6 +123,9 @@ Me interesa conectar con personas que disfruten aprender, desarrollar proyectos,
   </a>
   <a href="https://www.instagram.com/alejandra_bj30/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Sígueme-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:alejandrabustosjurez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
