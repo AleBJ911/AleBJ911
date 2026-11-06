@@ -34,7 +34,6 @@ Me interesa comprender cómo funcionan los sistemas inteligentes y cómo transfo
 Actualmente estoy desarrollando habilidades en:
 
 - 🤖 Machine Learning y Deep Learning.
-- 🧠 Redes neuronales artificiales.
 - 📊 Ciencia y análisis de datos.
 - 👁️ Visión por computadora.
 - 💬 Procesamiento de Lenguaje Natural.
