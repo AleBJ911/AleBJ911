@@ -23,7 +23,7 @@
 
 ---
 
-## 🌸 Sobre mí
+## Sobre mí
 
 <img align="right" width="180" src="https://github.com/Alejandra300905.png" alt="Avatar de Alejandra">
 
