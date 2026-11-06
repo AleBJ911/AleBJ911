@@ -65,13 +65,13 @@ Estas son algunas de las tecnologías con las que he trabajado y otras que estoy
 ### Lenguajes de programación
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,C,html" />
 </p>
 
 ### Inteligencia Artificial y ciencia de datos
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
@@ -82,8 +82,12 @@ Estas son algunas de las tecnologías con las que he trabajado y otras que estoy
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alejandra300905&show_icons=true&theme=rose&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=FFF7FB" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra300905&layout=compact&theme=rose&hide_border=true&title_color=EF93C4&text_color=777777&bg_color=FFF7FB" alt="Top Languages">
+  <a href="https://github.com/Alejandra300905">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alejandra300905&show_icons=true&theme=rose&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=FFF7FB" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/Alejandra300905">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra300905&layout=compact&theme=rose&hide_border=true&title_color=EF93C4&text_color=777777&bg_color=FFF7FB" alt="Top Languages">
+  </a>
 </p>
 
 <p align="center">
