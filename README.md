@@ -18,14 +18,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AleBJ911&label=Visitas%20al%20perfil&color=EF93C4&style=flat" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/Alejandra300905?label=Seguidores&style=flat&color=F8BBD0" alt="GitHub followers">
+  <img src="https://img.shields.io/github/followers/AleBJ911?label=Seguidores&style=flat&color=F8BBD0" alt="GitHub followers">
 </p>
 
 ---
 
 ## Sobre mí
 
-<img align="right" width="180" src="https://github.com/Alejandra300905.png" alt="Avatar de Alejandra">
+<img align="right" width="180" src="https://github.com/AleBJ911.png" alt="Avatar de Alejandra">
 
 Soy estudiante de la **Licenciatura en Inteligencia Artificial en la Universidad Autónoma del Estado de Morelos (UAEM)**.
 
@@ -77,16 +77,16 @@ Me gusta aprender mediante proyectos y documentar mi proceso de aprendizaje.
 ##  GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Alejandra300905">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alejandra300905&show_icons=true&theme=rose&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=FFF7FB" alt="GitHub Stats">
+  <a href="https://github.com/AleBJ911">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AleBJ911&show_icons=true&theme=rose&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=FFF7FB" alt="GitHub Stats">
   </a>
-  <a href="https://github.com/Alejandra300905">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra300905&layout=compact&theme=rose&hide_border=true&title_color=EF93C4&text_color=777777&bg_color=FFF7FB" alt="Top Languages">
+  <a href="https://github.com/AleBJ911">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleBJ911&layout=compact&theme=rose&hide_border=true&title_color=EF93C4&text_color=777777&bg_color=FFF7FB" alt="Top Languages">
   </a>
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Alejandra300905&theme=rose&hide_border=true&background=FFF7FB&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4" alt="GitHub Streak">
+  <img width="75%" src="https://streak-stats.demolab.com?user=AleBJ911&theme=rose&hide_border=true&background=FFF7FB&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4" alt="GitHub Streak">
 </p>
 
 ---
@@ -94,16 +94,16 @@ Me gusta aprender mediante proyectos y documentar mi proceso de aprendizaje.
 ##  Mi actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejandra300905&bg_color=fff7fb&color=777777&line=EF93C4&point=FF69B4&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleBJ911&bg_color=fff7fb&color=777777&line=EF93C4&point=FF69B4&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 ###  Mis contribuciones
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandra300905/Alejandra300905/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandra300905/Alejandra300905/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Alejandra300905/Alejandra300905/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleBJ911/AleBJ911/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleBJ911/AleBJ911/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AleBJ911/AleBJ911/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
