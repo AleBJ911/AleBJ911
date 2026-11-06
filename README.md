@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alejandra300905&label=Visitas%20al%20perfil&color=EF93C4&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=AleBJ911&label=Visitas%20al%20perfil&color=EF93C4&style=flat" alt="Profile views">
   <img src="https://img.shields.io/github/followers/Alejandra300905?label=Seguidores&style=flat&color=F8BBD0" alt="GitHub followers">
 </p>
 
