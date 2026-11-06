@@ -33,18 +33,16 @@ Me interesa comprender cómo funcionan los sistemas inteligentes y cómo transfo
 
 Actualmente estoy desarrollando habilidades en:
 
-- 🤖 Machine Learning y Deep Learning.
-- 📊 Ciencia y análisis de datos.
-- 👁️ Visión por computadora.
-- 💬 Procesamiento de Lenguaje Natural.
+-  Machine Learning y Deep Learning.
+-  Ciencia y análisis de datos.
+-  Visión por computadora.
+-  Procesamiento de Lenguaje Natural.
 
 Me gusta aprender mediante proyectos y documentar mi proceso de aprendizaje.
 
-<br clear="right"/>
-
 ---
 
-## 🎯 Áreas de interés
+## Áreas de interés
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-EF93C4?style=for-the-badge&logo=scikitlearn&logoColor=white">
@@ -57,9 +55,7 @@ Me gusta aprender mediante proyectos y documentar mi proceso de aprendizaje.
 
 ---
 
-## 💻 Tecnologías y herramientas
-
-Estas son algunas de las tecnologías con las que he trabajado y otras que estoy explorando durante mi formación.
+## Tecnologías y herramientas
 
 ### Lenguajes de programación
 
@@ -78,7 +74,7 @@ Estas son algunas de las tecnologías con las que he trabajado y otras que estoy
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Alejandra300905">
@@ -95,13 +91,13 @@ Estas son algunas de las tecnologías con las que he trabajado y otras que estoy
 
 ---
 
-## 🌱 Mi actividad en GitHub
+##  Mi actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejandra300905&bg_color=fff7fb&color=777777&line=EF93C4&point=FF69B4&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
-### 🐍 Mis contribuciones
+###  Mis contribuciones
 
 <p align="center">
   <picture>
